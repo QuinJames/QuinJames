@@ -2,7 +2,7 @@
 
 ### About Me
 Senior Software Engineer passionate about leveraging technology to solve complex problems. I specialize in:
-- Process Automation & Robotics
+- Process Automation
 - Distributed Systems Architecture 
 - AI/ML Product Development
 - Enterprise Software Solutions
